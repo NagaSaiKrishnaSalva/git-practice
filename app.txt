@@ -7,3 +7,6 @@ payment feature added
 
 #transcation
 transcation list was added
+
+#search
+search for logs was added
