@@ -10,3 +10,6 @@ transcation list was added
 
 #search
 search for logs was added
+
+#bug
+Fixed login bug
