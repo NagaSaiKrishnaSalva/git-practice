@@ -11,5 +11,10 @@ transcation list was added
 #search
 search for logs was added
 
+<<<<<<< HEAD
 #bug
 Fixed login bug
+=======
+#commit
+commit added
+>>>>>>> hotfix/login-issue
